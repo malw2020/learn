@@ -2,8 +2,8 @@
 
 # Shell: date
 
-- [date to timestamp](#date to unix timestamp)
-- [timestamp to date](#unix timestamp to date)
+- [date to timestamp](#date-to-unix-timestamp)
+- [timestamp to date](#unix-timestamp-to-date)
 
 [↑ top](#shell-date)
 <br><br><br><br><hr>
