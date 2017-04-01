@@ -1,4 +1,4 @@
-[*back to shell*](https://github.com/malw2020/learn/tree/master/doc#contents)<br>
+[*back to shell*](https://github.com/malw2020/learn/tree/master/doc/shell#contents)<br>
 
 ### Contents
 
