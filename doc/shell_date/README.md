@@ -2,14 +2,14 @@
 
 # Shell: date
 
-- [read file](#将日期转换为Unix时间戳)
-- [write file](#将Unix时间戳转换为日期时间)
+- [date to timestamp](#date to unix timestamp)
+- [timestamp to date](#unix timestamp to date)
 
-[↑ top](#python-os-io)
+[↑ top](#shell-date)
 <br><br><br><br><hr>
 
 
-#### 将日期转换为Unix时间戳
+#### date to unix timestamp
 
 ```shell
 1.将当前时间以Unix时间戳表示：
@@ -27,7 +27,7 @@
 <br><br><br><br><hr>
 
 
-#### write file
+#### unix timestamp to date
 
 ```shell
 1.不指定日期时间的格式：
