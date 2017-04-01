@@ -10,7 +10,7 @@
 
 ## Shell date
 
-  日期与时间戳相互转换
+  shell command
 - [*Shell*](https://github.com/malw2020/learn/tree/master/doc/shell)
 
 
