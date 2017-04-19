@@ -2,16 +2,16 @@
 
 ### Contents
 
-- [Shell](#shell-date)
+- [shell](#shell-command)
 
 [↑ top](#contents)
 <br><br>
 
 
-## Shell date
+##  shell command
 
-  shell command
-- [*Shell*](https://github.com/malw2020/learn/tree/master/doc/shell)
+- [*shell: crontab*](https://github.com/malw2020/learn/tree/master/doc/shell/crontab)
+- [*shell: date*](https://github.com/malw2020/learn/tree/master/doc/shell/date)
 
 
 [↑ top](#contents)
