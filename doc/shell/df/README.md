@@ -3,8 +3,7 @@
 # Shell: df
 
 - [df description](#df-description)
-- [df exam](#crontab-df)
-- [crontab service](#crontab-service)
+- [df exam](#df-exam)
 
 [↑ top](#shell-df)
 <br><br><br><br><hr>
