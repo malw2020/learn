@@ -5,6 +5,7 @@
 - [shell crontab](#shell-crontab)
 - [shell date](#shell-date)
 - [shell df](#shell-df)
+- [shell du](#shell-du)
 
 [↑ top](#contents)
 <br><br>
@@ -22,6 +23,9 @@
 
   日期与时间戳相互转换
 - [*Shell: date*](https://github.com/malw2020/learn/tree/master/doc/shell/date)
+
+[↑ top](#contents)
+<br><br>
 
 ## shell df
 
