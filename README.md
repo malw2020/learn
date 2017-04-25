@@ -100,6 +100,7 @@ data science, web frameworks, scripting, and many others.
 
 - [*Shell: crontab*](https://github.com/malw2020/learn/tree/master/doc/shell/crontab)
 - [*Shell: date*](https://github.com/malw2020/learn/tree/master/doc/shell/date)
+- [*Shell: df*](https://github.com/malw2020/learn/tree/master/doc/shell/df)
 
 
 
