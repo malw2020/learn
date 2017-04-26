@@ -11,24 +11,24 @@ Seelog is a powerful and easy-to-learn logging framework that provides functiona
 
 ## Quick-start
 
-package main
+	package main
 
-import (
-	seelog "github.com/cihub/seelog"
-)
+	import (
+		seelog "github.com/cihub/seelog"
+	)
 
-func main() {
-	logger, err := seelog.LoggerFromConfigAsFile("seelog.xml")
-	if err != nil {
-		seelog.Critical("err parsing config log file, ", err)
-		return
+	func main() {
+		logger, err := seelog.LoggerFromConfigAsFile("seelog.xml")
+		if err != nil {
+			seelog.Critical("err parsing config log file, ", err)
+			return
+		}
+
+		seelog.ReplaceLogger(logger)
+		defer seelog.Flush()
+
+		seelog.Info("tester start...")
 	}
-
-	seelog.ReplaceLogger(logger)
-	defer seelog.Flush()
-
-	seelog.Info("tester start...")
-}
 
 
 [↑ top](#contents)
@@ -42,7 +42,8 @@ func main() {
 
 ## Documentation
 
-  Seelog has github wiki pages, which contain detailed how-tos references: https://github.com/cihub/seelog/wiki(https://github.com/cihub/seelog/wiki)
+  Seelog has github wiki pages, which contain detailed how-tos references: [*https://github.com/cihub/seelog/wiki*](https://github.com/cihub/seelog/wiki)
+
 
 [↑ top](#contents)
 <br><br>
