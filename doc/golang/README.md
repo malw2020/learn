@@ -3,9 +3,9 @@
 ### Contents
 
 - [go concurrency](#go-concurrency)
-- [go log](#shell-log)
-- [go url](#shell-url)
-- [go web](#shell-web)
+- [go log](#go-log)
+- [go url](#go-url)
+- [go web](#go-web)
 
 
 [↑ top](#contents)
