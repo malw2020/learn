@@ -80,6 +80,7 @@ This will help my transition to other languages or frameworks if needed.
 - [*GoLang: concurrency*](https://github.com/malw2020/learn/tree/master/doc/golang/concurrency)
 - [*GoLang: log*](https://github.com/malw2020/learn/tree/master/doc/golang/log)
 - [*GoLang: url*](https://github.com/malw2020/learn/tree/master/doc/golang/url)
+- [*GoLang: web*](https://github.com/malw2020/learn/tree/master/doc/golang/web)
 
 [↑ top](#contents)
 <br><br>
