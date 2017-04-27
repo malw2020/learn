@@ -8,7 +8,7 @@ from: [*https://github.com/gin-gonic/gin*](https://github.com/gin-gonic/gin)
 
 
 
-[↑ top](#Gin)
+[↑ top](#gin)
 <br><br>
 
 
@@ -91,13 +91,13 @@ from: [*https://github.com/gin-gonic/gin*](https://github.com/gin-gonic/gin)
 	}
 
 	
-[↑ top](#Gin)
+[↑ top](#gin)
 <br><br>
 
 ## Installation
 	go get gopkg.in/gin-gonic/gin.v1
 
-[↑ top](#Gin)
+[↑ top](#gin)
 <br><br>
 
 
