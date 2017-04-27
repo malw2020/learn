@@ -34,13 +34,13 @@ from: [*https://github.com/cihub/seelog*](https://github.com/cihub/seelog)
 	}
 
 
-[↑ top](#Seelog)
+[↑ top](#seelog)
 <br><br>
 
 ## Installation
 	go get -u github.com/cihub/seelog
 
-[↑ top](#Seelog)
+[↑ top](#seelog)
 <br><br>
 
 ## Documentation
@@ -48,7 +48,7 @@ from: [*https://github.com/cihub/seelog*](https://github.com/cihub/seelog)
   Seelog has github wiki pages, which contain detailed how-tos references: [*https://github.com/cihub/seelog/wiki*](https://github.com/cihub/seelog/wiki)
 
 
-[↑ top](#Seelog)
+[↑ top](#seelog)
 <br><br>
 
 
