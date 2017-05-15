@@ -16,6 +16,7 @@ I am an endless, active learner.
 - [Linguistics, natural language processing](#linguistics-natural-language-processing)
 - [Mathematics, statistics](#mathematics-statistics)
 - [Data structures and algorithms](#data-structures-and-algorithms)
+- [Open source component](#open-source-component)
 
 [↑ top](#contents)
 <br><br>
@@ -170,6 +171,13 @@ algorithms, machine learning algorithms, etc.
 
 ## Data structures and algorithms
 
+
+[↑ top](#contents)
+<br><br>
+
+## Open source component
+
+- [*Etcd](https://github.com/malw2020/learn/tree/master/doc/opensource/etcd)
 
 [↑ top](#contents)
 <br><br>
