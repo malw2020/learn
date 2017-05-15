@@ -2,12 +2,22 @@
 
 # Shell: date
 
+- [date setting](#date-setting)
 - [date to timestamp](#date-to-unix-timestamp)
 - [timestamp to date](#unix-timestamp-to-date)
 
 [↑ top](#shell-date)
 <br><br><br><br><hr>
 
+#### date setting
+
+```shell
+1.设置当前系统时间为2015年5月8日19点48分0秒
+  date -s "2015-05-08 19:48:00"
+```
+
+[↑ top](#shell-date)
+<br><br><br><br><hr>
 
 #### date to unix timestamp
 
